@@ -1,0 +1,5 @@
+*.asv
+*.m~
+CEDMATLAB*
+fieldtrip*
+*CED_library*
